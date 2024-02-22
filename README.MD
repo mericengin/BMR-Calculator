@@ -25,4 +25,4 @@ This project uses the following technologies:
 
 ## Author
 
-This project was created by [Your Name].
+This project was created by Kaya Meriç Engin.
